@@ -34,13 +34,13 @@
 <br>
 
 ## 🚀 Projects
-- 🐾 **[Momentive](https://github.com/PhilTBatt/momentive)**
+- 📚 **[Momentive](https://github.com/PhilTBatt/momentive)**
   
-- 🎮 **[Clowder](https://github.com/PhilTBatt/clowder)**
+- 🐾 **[Clowder](https://github.com/PhilTBatt/clowder)**
   
 - 📰 **[NC News](https://github.com/PhilTBatt/nc-news)**
   
-- 📚 **[My Game](https://github.com/PhilTBatt/my-game)**
+- 🎮 **[My Game](https://github.com/PhilTBatt/my-game)**
 
 <br>
 
