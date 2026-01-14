@@ -46,7 +46,7 @@
 
 ## 📊 Stats
 
-![Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilTBatt&show_icons=true&theme=radical)
+![Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilTBatt&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilTBatt&layout=compact&theme=radical)
 
