@@ -48,6 +48,8 @@
 
 ![Phil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api/?username=PhilTBatt&theme=radical&hide=contribs)
 
+<!--
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PhilTBatt&layout=compact&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=philtbatt&theme=onedark&row=1&column=4)
+-->
